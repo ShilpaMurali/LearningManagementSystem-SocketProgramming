@@ -1,0 +1,4 @@
+What is the socket API to create a socket?
+What is the socket used for TCP communcation?
+What is the socket used for UDP communication?
+
